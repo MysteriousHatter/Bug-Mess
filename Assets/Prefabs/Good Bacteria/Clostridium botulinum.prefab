@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6561456738935601972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742356, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742358, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Radius
+      value: 2.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742359, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742359, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742359, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742359, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742378, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_Name
+      value: Clostridium botulinum
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915580171472742378, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+      propertyPath: m_TagString
+      value: Blue
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1915580171472742358, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+    - {fileID: 7452973088340401961, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+    - {fileID: 1915580171472742376, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+    - {fileID: 1915580171472742379, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+    - {fileID: -2992071888174574502, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+    - {fileID: 7584553792788844138, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+--- !u!1 &4727504345408691422 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1915580171472742378, guid: 00171a6fbe9a8ef448a8847c1c01d423, type: 3}
+  m_PrefabInstance: {fileID: 6561456738935601972}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3457522717050771391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4727504345408691422}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57f2526d374189343b45725054057f6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movementSpeed: 8
+  game_area: {fileID: 0}
+  isShrinking: 1

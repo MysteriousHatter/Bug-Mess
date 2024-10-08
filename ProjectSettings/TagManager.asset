@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Green
+  - Blue
+  - Red
+  - Yellow
+  - Area
+  - Purple
+  - Blast
+  - StartMenu
+  - GameOverUI
   layers:
   - Default
   - TransparentFX
