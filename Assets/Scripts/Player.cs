@@ -107,6 +107,11 @@ public class Player : MonoBehaviour
         {
             float movementSpeed = obj.GetMovementSpeed();
             obj.SetMovementSpeed(movementSpeed * slowMotionFactor);
+            if(obj.gameObject.CompareTag("Red"))
+            {
+                float chaseSpeed = obj.GetComponent<RedBacteria>().GetChaseSpeed();
+                obj.GetComponent<RedBacteria>().SetChaseSpeed(chaseSpeed * slowMotionFactor);
+            }
         }
 
         // Wait for the slow-motion duration
@@ -117,6 +122,11 @@ public class Player : MonoBehaviour
         {
             float speed = obj.GetMovementSpeed();
             obj.SetMovementSpeed(speed/slowMotionFactor);
+            if (obj.gameObject.CompareTag("Red"))
+            {
+                float chaseSpeed = obj.GetComponent<RedBacteria>().GetChaseSpeed();
+                obj.GetComponent<RedBacteria>().SetChaseSpeed(chaseSpeed/slowMotionFactor);
+            }
         }
     }
 

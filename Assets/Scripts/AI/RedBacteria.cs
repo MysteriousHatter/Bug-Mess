@@ -57,6 +57,16 @@ public class RedBacteria : Bacteria
         return bacteriaPrefab;
     }
 
+    public void SetChaseSpeed(float speed)
+    {
+        chaseSpeed = speed;
+    }
+
+    public float GetChaseSpeed()
+    {
+        return chaseSpeed;
+    }
+
     public override void SetMovementSpeed(float speed)
     {
         movementSpeed = speed;
